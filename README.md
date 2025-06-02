@@ -8,7 +8,7 @@ Este es un proyecto de Java que requiere ciertas configuraciones para funcionar 
 
 2. **Librerías**: Necesitarás las siguientes librerías en la carpeta `/lib` del proyecto:
    - [MySQL Connector](https://dev.mysql.com/downloads/connector/j/)
-   - [jBCrypt 0.4]([https://www.mindrot.org/projects/jBCrypt/](https://mvnrepository.com/artifact/org.mindrot/jbcrypt/0.4))
+   - [jBCrypt 0.4](https://www.mindrot.org/projects/jBCrypt/](https://mvnrepository.com/artifact/org.mindrot/jbcrypt/0.4)
 
    Descarga las librerías y colócalas en la carpeta `/lib`.
 
