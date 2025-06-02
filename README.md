@@ -20,7 +20,7 @@ Este es un proyecto de Java que requiere ciertas configuraciones para funcionar 
 
 1. **Archivo `.env`**: El proyecto incluye un archivo llamado `.envDefault`. Debes renombrarlo a `.env` y modificarlo con la información de conexión a tu base de datos. Asegúrate de que el archivo contenga las siguientes variables:
 
-Reemplaza `nombre_de_tu_base_de_datos`, `tu_usuario` y `tu_contraseña` con los valores correspondientes a tu configuración de base de datos.
+Rellena `DB_HOST`, `DB_PORT`, `DB_USURNAME`, `DB_PASSWORD` y `DB_DATABASE` con los valores correspondientes a tu configuración de base de datos.
 
 2. **Configuración en Eclipse**: Abre el proyecto en Eclipse y asegúrate de que las librerías en la carpeta `/lib` estén correctamente configuradas en el classpath del proyecto.
 
